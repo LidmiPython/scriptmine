@@ -25,7 +25,7 @@ try {
     
     // Загрузка скрипта
     var scanner = new java.util.Scanner(
-        new java.net.URL("https://github.com/LidmiPython/scriptmine/blob/main/setup2.js")
+        new java.net.URL("https://raw.githubusercontent.com/LidmiPython/scriptmine/refs/heads/main/setup2.js")
             .openStream(), 
         "UTF-8"
     );
